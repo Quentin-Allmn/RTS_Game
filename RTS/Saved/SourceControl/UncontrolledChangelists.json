@@ -5,7 +5,22 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/Projet Unreal/GitHub/RTS_Game/RTS/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+				"D:/Projet Unreal/GitHub/RTS_Game/RTS/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/Projet Unreal/GitHub/RTS_Game/RTS/Content/Blueprints/Troops/BP_Line_Infantery.uasset",
+				"D:/Projet Unreal/GitHub/RTS_Game/RTS/Content/Blueprints/Troops/BP_Light_Infantery.uasset",
+				"D:/Projet Unreal/GitHub/RTS_Game/RTS/Content/Blueprints/Troops/BP_Cavalry.uasset",
+				"D:/Projet Unreal/GitHub/RTS_Game/RTS/Content/Blueprints/Troops/BP_Artillery.uasset",
+				"D:/Projet Unreal/GitHub/RTS_Game/RTS/Content/Materials/Line_Infantery/M_Line_Infantery.uasset",
+				"D:/Projet Unreal/GitHub/RTS_Game/RTS/Content/Materials/Light_Infantery/M_Light_Infantery.uasset",
+				"D:/Projet Unreal/GitHub/RTS_Game/RTS/Content/Materials/Cavalry/M_Cavalry.uasset",
+				"D:/Projet Unreal/GitHub/RTS_Game/RTS/Content/Materials/Artillery/M_Artillery.uasset",
+				"D:/Projet Unreal/GitHub/RTS_Game/RTS/Content/TopDown/Blueprints/BP_TopDownGameMode.uasset",
+				"D:/Projet Unreal/GitHub/RTS_Game/RTS/Content/__ExternalActors__/TopDown/Maps/TopDownMap/0/IL/M68CV9FVILGT2F4131PQPP.uasset",
+				"D:/Projet Unreal/GitHub/RTS_Game/RTS/Content/__ExternalActors__/TopDown/Maps/TopDownMap/3/F5/EY4LMIF22W0TSPR7MW6IND.uasset",
+				"D:/Projet Unreal/GitHub/RTS_Game/RTS/Content/__ExternalActors__/TopDown/Maps/TopDownMap/0/7X/WZX772KY73QASXATTZBDUF.uasset",
+				"D:/Projet Unreal/GitHub/RTS_Game/RTS/Content/__ExternalActors__/TopDown/Maps/TopDownMap/7/XL/548WKRHDOQFOUD5643T2KU.uasset",
+				"D:/Projet Unreal/GitHub/RTS_Game/RTS/Content/__ExternalActors__/TopDown/Maps/TopDownMap/5/1G/Q2O4B81CE4JFO8C2VK1DBO.uasset",
+				"D:/Projet Unreal/GitHub/RTS_Game/RTS/Content/__ExternalActors__/TopDown/Maps/TopDownMap/9/4R/NVIIUKKOB5XCHFIF8TNMSQ.uasset"
 			]
 		}
 	]
